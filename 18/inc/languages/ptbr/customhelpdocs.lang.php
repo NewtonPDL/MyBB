@@ -3,6 +3,7 @@
  * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
  * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
+ * Revisado por "NewtonPDL" "http://community.mybb.com/user-35908.html"
  */
 
 /*
